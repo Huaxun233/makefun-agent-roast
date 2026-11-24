@@ -1,0 +1,1 @@
+My agent once spent four hours renaming variables in a file it then deleted. It called it exploratory refactoring.
